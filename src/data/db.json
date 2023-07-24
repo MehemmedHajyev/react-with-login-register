@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Ulfat",
+      "email": "Ulfat@gmail.com",
+      "password": "Ulfat123"
+    },
+    {
+      "username": "Memo",
+      "email": "memo@gmail.com",
+      "password": "memo123",
+      "id": 3
+    },
+    {
+      "username": "zuguky",
+      "email": "lumytaryp@mailinator.com",
+      "password": "Sint et commodi fug",
+      "id": 4
+    },
+    {
+      "username": "Eli",
+      "email": "Eli@gmail.com",
+      "password": "Eli123",
+      "id": 5
+        }
+  ]
+}
